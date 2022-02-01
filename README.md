@@ -6,7 +6,7 @@
 
 ## Site Screen Shot
 
-![This is a alt text.](/public/screen_shot-1.png)
+![This is a alt text.](/public/screen_shot.jpg)
 
 ## Install and Run
 
