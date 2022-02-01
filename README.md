@@ -2,6 +2,9 @@
 
 ## API Fetch From -
 
+##API Setup
+reName .env.example file like as .env and put your TMDB Api key.
+
 [Link](https://www.themoviedb.org/)
 
 ## Site Screen Shot
