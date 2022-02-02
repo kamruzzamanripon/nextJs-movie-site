@@ -1,6 +1,5 @@
 import Head from 'next/head'
-//import 'tw-elements'
-import Carousel from '../components/Carousel'
+import HCarousel from '../components/Carousel'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Results from '../components/Results'
@@ -19,7 +18,7 @@ export default function Home({results}) {
 
         <Header />
         <Nav/>
-        <Carousel />
+        <HCarousel />
         <Results results={results} />
       
     </div>
