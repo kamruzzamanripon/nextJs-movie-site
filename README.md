@@ -14,4 +14,5 @@ reName .env.example file like as .env and put your TMDB Api key.
 ## Install and Run
 
 1. npm install
-2. npm run dev
+2. API Setup reName .env.example file like as .env.local and put your TMDB Api key.
+3. npm run dev
